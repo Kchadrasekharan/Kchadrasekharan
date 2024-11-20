@@ -1,4 +1,0 @@
-[
-    { "Id": 1, "Name": "Laptop", "Price": 1200.00, "Stock": 50 },
-    { "Id": 2, "Name": "Smartphone", "Price": 800.00, "Stock": 150 }
-]
